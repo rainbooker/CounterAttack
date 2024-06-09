@@ -4,8 +4,8 @@
   "author": "@你的名字",
   "apps": [
     {
-      "id": "my_script_settings",
-      "name": "参数设置",
+      "id": "my_script_settings_A",
+      "name": "参数设置 A",
       "keys": ["Subtitle", "phoneNum", "ua"],
       "settings": [
         {
@@ -25,6 +25,34 @@
         {
           "id": "ua",
           "name": "用户代理",
+          "val": "Mozilla/5.0 (Android 10; Mobile; rv:73.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/81.0 Safari/537.36",
+          "type": "text",
+          "desc": "用户代理字符串"
+        }
+      ]
+    },
+    {
+      "id": "my_script_settings_B",
+      "name": "参数设置 B",
+      "keys": ["SubtitleB", "phoneNumB", "uaB"],
+      "settings": [
+        {
+          "id": "SubtitleB",
+          "name": "副标题 B",
+          "val": "32",
+          "type": "text",
+          "desc": "副标题的值"
+        },
+        {
+          "id": "phoneNumB",
+          "name": "电话号码 B",
+          "val": "180551",
+          "type": "text",
+          "desc": "电话号码的值"
+        },
+        {
+          "id": "uaB",
+          "name": "用户代理 B",
           "val": "Mozilla/5.0 (Android 10; Mobile; rv:73.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/81.0 Safari/537.36",
           "type": "text",
           "desc": "用户代理字符串"
