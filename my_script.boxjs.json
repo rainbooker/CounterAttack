@@ -58,6 +58,34 @@
           "desc": "用户代理字符串"
         }
       ]
+    },
+    {
+      "id": "my_script_settings_C",
+      "name": "参数设置 C",
+      "keys": ["SubtitleC", "phoneNumC", "uaC"],
+      "settings": [
+        {
+          "id": "SubtitleC",
+          "name": "副标题 C",
+          "val": "32",
+          "type": "text",
+          "desc": "副标题的值"
+        },
+        {
+          "id": "phoneNumC",
+          "name": "电话号码 C",
+          "val": "180551",
+          "type": "text",
+          "desc": "电话号码的值"
+        },
+        {
+          "id": "uaC",
+          "name": "用户代理 C",
+          "val": "Mozilla/5.0 (Android 10; Mobile; rv:73.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/81.0 Safari/537.36",
+          "type": "text",
+          "desc": "用户代理字符串"
+        }
+      ]
     }
   ]
 }
