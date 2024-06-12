@@ -11,21 +11,21 @@
         {
           "id": "Subtitle",
           "name": "副标题",
-          "val": "32",
+          "val": "",
           "type": "text",
           "desc": "副标题的值"
         },
         {
           "id": "phoneNum",
           "name": "电话号码",
-          "val": "180551",
+          "val": "",
           "type": "text",
           "desc": "电话号码的值"
         },
         {
           "id": "ua",
           "name": "用户代理",
-          "val": "Mozilla/5.0 (Android 10; Mobile; rv:73.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/81.0 Safari/537.36",
+          "val": "",
           "type": "text",
           "desc": "用户代理字符串"
         }
@@ -39,21 +39,21 @@
         {
           "id": "SubtitleB",
           "name": "副标题 B",
-          "val": "32",
+          "val": "",
           "type": "text",
           "desc": "副标题的值"
         },
         {
           "id": "phoneNumB",
           "name": "电话号码 B",
-          "val": "180551",
+          "val": "",
           "type": "text",
           "desc": "电话号码的值"
         },
         {
           "id": "uaB",
           "name": "用户代理 B",
-          "val": "Mozilla/5.0 (Android 10; Mobile; rv:73.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/81.0 Safari/537.36",
+          "val": "",
           "type": "text",
           "desc": "用户代理字符串"
         }
@@ -67,21 +67,21 @@
         {
           "id": "SubtitleC",
           "name": "副标题 C",
-          "val": "32",
+          "val": "",
           "type": "text",
           "desc": "副标题的值"
         },
         {
           "id": "phoneNumC",
           "name": "电话号码 C",
-          "val": "180551",
+          "val": "",
           "type": "text",
           "desc": "电话号码的值"
         },
         {
           "id": "uaC",
           "name": "用户代理 C",
-          "val": "Mozilla/5.0 (Android 10; Mobile; rv:73.0) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/81.0 Safari/537.36",
+          "val": "",
           "type": "text",
           "desc": "用户代理字符串"
         }
