@@ -86,6 +86,34 @@
           "desc": "用户代理字符串"
         }
       ]
+    },
+    {
+      "id": "my_script_settings_D",
+      "name": "参数设置 D",
+      "keys": ["SubtitleD", "phoneNumD", "uaD"],
+      "settings": [
+        {
+          "id": "SubtitleD",
+          "name": "副标题 D",
+          "val": "",
+          "type": "text",
+          "desc": "副标题的值"
+        },
+        {
+          "id": "phoneNumD",
+          "name": "电话号码 D",
+          "val": "",
+          "type": "text",
+          "desc": "电话号码的值"
+        },
+        {
+          "id": "uaD",
+          "name": "用户代理 D",
+          "val": "",
+          "type": "text",
+          "desc": "用户代理字符串"
+        }
+      ]
     }
   ]
 }
