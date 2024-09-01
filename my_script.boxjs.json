@@ -142,6 +142,34 @@
           "desc": "用户代理字符串"
         }
       ]
+    },
+    {
+      "id": "my_script_settings_F",
+      "name": "参数设置 F",
+      "keys": ["SubtitleF", "phoneNumF", "uaF"],
+      "settings": [
+        {
+          "id": "SubtitleF",
+          "name": "副标题 F",
+          "val": "",
+          "type": "text",
+          "desc": "副标题的值"
+        },
+        {
+          "id": "phoneNumF",
+          "name": "电话号码 F",
+          "val": "",
+          "type": "text",
+          "desc": "电话号码的值"
+        },
+        {
+          "id": "uaF",
+          "name": "用户代理 F",
+          "val": "",
+          "type": "text",
+          "desc": "用户代理字符串"
+        }
+      ]
     }
   ]
 }
