@@ -114,6 +114,34 @@
           "desc": "用户代理字符串"
         }
       ]
+    },
+    {
+      "id": "my_script_settings_E",
+      "name": "参数设置 E",
+      "keys": ["SubtitleE", "phoneNumE", "uaE"],
+      "settings": [
+        {
+          "id": "SubtitleE",
+          "name": "副标题 E",
+          "val": "",
+          "type": "text",
+          "desc": "副标题的值"
+        },
+        {
+          "id": "phoneNumE",
+          "name": "电话号码 E",
+          "val": "",
+          "type": "text",
+          "desc": "电话号码的值"
+        },
+        {
+          "id": "uaE",
+          "name": "用户代理 E",
+          "val": "",
+          "type": "text",
+          "desc": "用户代理字符串"
+        }
+      ]
     }
   ]
 }
